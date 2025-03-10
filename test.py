@@ -9,3 +9,4 @@ with UC(
     sb.cdp.sleep(2)
     sb.cdp.save_cookies("cookies.json")
     sb.cdp.sleep(5)
+    sb.cdp.uc_gui_click_captcha()

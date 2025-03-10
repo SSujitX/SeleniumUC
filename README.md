@@ -36,6 +36,14 @@ with UC(
 
 For more advanced usage and features, refer to the [SeleniumBase documentation](https://github.com/seleniumbase/SeleniumBase).
 
+### SeleniumBase Method Summary
+
+For a comprehensive list of SeleniumBase methods, visit the [SeleniumBase Methods API Reference](https://seleniumbase.io/help_docs/method_summary/#seleniumbase-methods-api-reference).
+
+### CDP Mode Usage
+
+To learn more about using CDP mode with SeleniumBase, check out the [CDP Mode Usage Guide](https://seleniumbase.io/examples/cdp_mode/ReadMe/#cdp-mode-usage).
+
 ## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
